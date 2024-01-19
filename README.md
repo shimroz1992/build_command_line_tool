@@ -9,8 +9,7 @@ Ensure you are submitting the code along with cli.
 
 ### Getting Started:
 1.**Clone the repository:**
-```bash
-git clone https://github.com/shimroz1992/build_command_line_tool.git
+`git clone https://github.com/shimroz1992/build_command_line_tool.git`
   
 2. **Navigate to the project directory:**
   `cd your-rails-repository`
