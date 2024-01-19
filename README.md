@@ -9,7 +9,8 @@ Ensure you are submitting the code along with cli.
 
 ### Getting Started:
 1.**Clone the repository:**
-  `git clone https://github.com/shimroz1992/build_command_line_tool.git`
+```bash
+git clone https://github.com/shimroz1992/build_command_line_tool.git
   
 2. **Navigate to the project directory:**
   `cd your-rails-repository`
@@ -23,7 +24,7 @@ Ensure you are submitting the code along with cli.
 ## Testing
 **For testing purposes, the project uses RSpec. To run the tests, ensure you have RSpec installed and execute the following command:**
 `docker run -it build_command_line_tool /bin/bash`
-**then**
+#### then
 `bundle exec rspec`
 
 ### Docker Usage
