@@ -21,9 +21,10 @@ Ensure you are submitting the code along with cli.
   `cd your-rails-repository`
 
 3. **Install dependencies:**
+ 
   `bundle install`
 
-4. **Start the Rails server:**
+5. **Start the Rails server:**
  
   `rails server`
 
