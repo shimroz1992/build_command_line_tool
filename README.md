@@ -8,10 +8,12 @@ The tool will output the title and whether each TODO is completed or not. The TO
 Ensure you are submitting the code along with cli.
 
 ### Getting Started:
-1.Clone the repository.
+1.**Clone the repository:**    
+
 `git clone https://github.com/shimroz1992/build_command_line_tool.git`
   
-2. **Navigate to the project directory:**
+2. **Navigate to the project directory:**  
+   
   `cd your-rails-repository`
 
 4. **Install dependencies:**
